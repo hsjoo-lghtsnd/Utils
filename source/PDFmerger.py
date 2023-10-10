@@ -2,6 +2,8 @@ import os
 #!pip install PyPDF2
 from PyPDF2 import PdfReader, PdfMerger
 
+# This code runs on PyPDF2 version 3.0.1
+
 # put the pdf files in the 'target' folder.
 target = 'target'
 
